@@ -1,0 +1,16 @@
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/novoProjeto
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/novoProjeto.deps.json
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/novoProjeto.runtimeconfig.json
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/novoProjeto.runtimeconfig.dev.json
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/novoProjeto.dll
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/ref/novoProjeto.dll
+/home/gabi/Desktop/novoProjeto/novoRepositorio/bin/Debug/net5.0/novoProjeto.pdb
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.csprojAssemblyReference.cache
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.AssemblyInfoInputs.cache
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.AssemblyInfo.cs
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.csproj.CoreCompileInputs.cache
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.dll
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/ref/novoProjeto.dll
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.pdb
+/home/gabi/Desktop/novoProjeto/novoRepositorio/obj/Debug/net5.0/novoProjeto.genruntimeconfig.cache
